@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed4108f4.css",
-    "main.js": "/static/js/main.af54db27.js",
-    "index.html": "/index.html",
-    "main.ed4108f4.css.map": "/static/css/main.ed4108f4.css.map",
-    "main.af54db27.js.map": "/static/js/main.af54db27.js.map"
+    "main.css": "//onehae627.github.io/my_todoList/static/css/main.ed4108f4.css",
+    "main.js": "//onehae627.github.io/my_todoList/static/js/main.79ad994b.js",
+    "index.html": "//onehae627.github.io/my_todoList/index.html",
+    "main.ed4108f4.css.map": "//onehae627.github.io/my_todoList/static/css/main.ed4108f4.css.map",
+    "main.79ad994b.js.map": "//onehae627.github.io/my_todoList/static/js/main.79ad994b.js.map"
   },
   "entrypoints": [
     "static/css/main.ed4108f4.css",
-    "static/js/main.af54db27.js"
+    "static/js/main.79ad994b.js"
   ]
 }
